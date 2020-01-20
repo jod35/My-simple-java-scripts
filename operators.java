@@ -4,5 +4,6 @@ public class operators{
         int y =20;
         System.out.println("x minus y is " + (x-y));
         System.out.println("x times y is " + (x*y));
+        System.out.println("x divided with y is" + (x/y)); // 0 because they are integers
     }
 }
